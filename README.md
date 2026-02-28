@@ -7,11 +7,11 @@ I'm a third-year Computer Science and Game Development student at Northeastern U
 ### 🪐 Languages
 <table>
   <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" /><br>Python</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java" /><br>Java</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=cpp" /><br>C++</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=cs" /><br>C#</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=python" /><br>Python</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=ts" /><br>TypeScript</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=java" /><br>Java</td>
   </tr>
 </table>
 
