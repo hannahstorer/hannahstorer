@@ -4,7 +4,6 @@ I'm a third-year Computer Science and Game Development student at Northeastern U
 
 ## 💻 Tech Stack
 
-#### 🪐 Languages
 <table>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=python" /><br>Python</td>
@@ -13,28 +12,20 @@ I'm a third-year Computer Science and Game Development student at Northeastern U
     <td align="center"><img src="https://skillicons.dev/icons?i=cs" /><br>C#</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=ts" /><br>TypeScript</td>
   </tr>
-</table>
-
-#### 🌻 Game Development
-<table>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=unreal" /><br>Unreal Engine</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=unity" /><br>Unity</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=godot" /><br>Godot</td>
   </tr>
-</table>
-
-#### 🌱 Web & Databases
-<table>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=react" /><br>React</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" /><br>FastAPI</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=postgresql" /><br>PostgreSQL</td>
   </tr>
-</table>
-
-#### 🫧 Tools & DevOps
-<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" /><br>TensorFlow</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=pytorch" /><br>PyTorch</td>
+  </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=git" /><br>Git</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=github" /><br>GitHub</td>
