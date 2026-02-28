@@ -13,7 +13,7 @@ I'm a third-year Computer Science and Game Development student at Northeastern U
     <td align="center"><img src="https://skillicons.dev/icons?i=java" /><br>Java</td>
   </tr>
 </table>
-🌻 Game Development
+### 🌻 Game Development
 <table>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=unreal" /><br>Unreal Engine</td>
@@ -21,7 +21,7 @@ I'm a third-year Computer Science and Game Development student at Northeastern U
     <td align="center"><img src="https://skillicons.dev/icons?i=godot" /><br>Godot</td>
   </tr>
 </table>
-🌱 Web & Databases
+### 🌱 Web & Databases
 <table>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=react" /><br>React</td>
@@ -29,14 +29,14 @@ I'm a third-year Computer Science and Game Development student at Northeastern U
     <td align="center"><img src="https://skillicons.dev/icons?i=postgresql" /><br>PostgreSQL</td>
   </tr>
 </table>
-💫 ML / AI
+### 💫 ML / AI
 <table>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" /><br>TensorFlow</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=pytorch" /><br>PyTorch</td>
   </tr>
 </table>
-🫧 Tools & DevOps
+### 🫧 Tools & DevOps
 <table>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=git" /><br>Git</td>
