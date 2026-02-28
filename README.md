@@ -4,7 +4,7 @@ I'm a third-year Computer Science and Game Development student at Northeastern U
 
 ## 💻 Tech Stack
 
-### 🪐 Languages
+#### 🪐 Languages
 <table>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=python" /><br>Python</td>
@@ -15,7 +15,7 @@ I'm a third-year Computer Science and Game Development student at Northeastern U
   </tr>
 </table>
 
-### 🌻 Game Development
+#### 🌻 Game Development
 <table>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=unreal" /><br>Unreal Engine</td>
@@ -24,7 +24,7 @@ I'm a third-year Computer Science and Game Development student at Northeastern U
   </tr>
 </table>
 
-### 🌱 Web & Databases
+#### 🌱 Web & Databases
 <table>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=react" /><br>React</td>
@@ -33,15 +33,7 @@ I'm a third-year Computer Science and Game Development student at Northeastern U
   </tr>
 </table>
 
-### 💫 ML / AI
-<table>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" /><br>TensorFlow</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=pytorch" /><br>PyTorch</td>
-  </tr>
-</table>
-
-### 🫧 Tools & DevOps
+#### 🫧 Tools & DevOps
 <table>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=git" /><br>Git</td>
