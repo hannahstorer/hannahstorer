@@ -16,15 +16,15 @@ I'm a third-year Computer Science and Game Development student at Northeastern U
     <td align="center"><img src="https://skillicons.dev/icons?i=unreal" /><br>Unreal Engine</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=unity" /><br>Unity</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=godot" /><br>Godot</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=react" /><br>React</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" /><br>FastAPI</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=postgresql" /><br>PostgreSQL</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" /><br>TensorFlow</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=pytorch" /><br>PyTorch</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=git" /><br>Git</td>
