@@ -3,6 +3,7 @@ Hi I'm Hannah!
 I'm a third-year Computer Science and Game Development student at Northeastern University, passionate about the intersection of technology and human experience. I love building things that matter, whether that's immersive games or thoughtful software. I'm currently working on strengthening my full stack skills and exploring how intentional design and engineering can create experiences that connect with people.
 
 ## 💻 Tech Stack
+
 ### 🪐 Languages
 <table>
   <tr>
@@ -13,6 +14,7 @@ I'm a third-year Computer Science and Game Development student at Northeastern U
     <td align="center"><img src="https://skillicons.dev/icons?i=java" /><br>Java</td>
   </tr>
 </table>
+
 ### 🌻 Game Development
 <table>
   <tr>
@@ -21,6 +23,7 @@ I'm a third-year Computer Science and Game Development student at Northeastern U
     <td align="center"><img src="https://skillicons.dev/icons?i=godot" /><br>Godot</td>
   </tr>
 </table>
+
 ### 🌱 Web & Databases
 <table>
   <tr>
@@ -29,6 +32,7 @@ I'm a third-year Computer Science and Game Development student at Northeastern U
     <td align="center"><img src="https://skillicons.dev/icons?i=postgresql" /><br>PostgreSQL</td>
   </tr>
 </table>
+
 ### 💫 ML / AI
 <table>
   <tr>
@@ -36,6 +40,7 @@ I'm a third-year Computer Science and Game Development student at Northeastern U
     <td align="center"><img src="https://skillicons.dev/icons?i=pytorch" /><br>PyTorch</td>
   </tr>
 </table>
+
 ### 🫧 Tools & DevOps
 <table>
   <tr>
