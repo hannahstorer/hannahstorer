@@ -35,3 +35,9 @@ I'm a third-year Computer Science and Game Development student at Northeastern U
     <td align="center"><img src="https://skillicons.dev/icons?i=github" /><br>GitHub</td>
   </tr>
 </table>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hannahstorer/snake-game/output/snake_darkmode.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hannahstorer/snake-game/output/snake_lightmode.svg">
+  <img alt="snake" src="https://raw.githubusercontent.com/hannahstorer/snake-game/output/snake_darkmode.svg">
+</picture>
