@@ -2,6 +2,12 @@
 Hi, I'm Hannah!
 I'm a third-year Computer Science and Game Development student at Northeastern University, passionate about the intersection of technology and human experience. I love building things that matter, whether that's immersive games or thoughtful software. I'm currently working on strengthening my full stack skills and exploring how intentional design and engineering can create experiences that connect with people.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hannahstorer/snake-game/output/snake_darkmode.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hannahstorer/snake-game/output/snake_lightmode.svg">
+  <img alt="snake" src="https://raw.githubusercontent.com/hannahstorer/snake-game/output/snake_darkmode.svg">
+</picture>
+
 ## 💻 Tech Stack
 <table>
   <tr>
@@ -35,9 +41,3 @@ I'm a third-year Computer Science and Game Development student at Northeastern U
     <td align="center"><img src="https://skillicons.dev/icons?i=github" /><br>GitHub</td>
   </tr>
 </table>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hannahstorer/snake-game/output/snake_darkmode.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hannahstorer/snake-game/output/snake_lightmode.svg">
-  <img alt="snake" src="https://raw.githubusercontent.com/hannahstorer/snake-game/output/snake_darkmode.svg">
-</picture>
