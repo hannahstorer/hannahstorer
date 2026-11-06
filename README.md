@@ -1,4 +1,4 @@
-## ⭐ about me
+## about me ⋆⭒˚.⋆.
 hi, i'm hannah!
 i'm a fourth year Computer Science and Game Development student at Northeastern University, passionate about the intersection of technology and human experience. i love building things that matter, whether that's immersive games or thoughtful software. i'm currently working on strengthening my full stack skills and exploring how intentional design and engineering can create experiences that connect with people!
 
@@ -8,7 +8,7 @@ i'm a fourth year Computer Science and Game Development student at Northeastern 
   <img alt="snake" src="https://raw.githubusercontent.com/hannahstorer/snake-game/output/snake_darkmode.svg">
 </picture>
 
-## 💻 Tech Stack
+## tech stack ⋆｡°✩⋆｡
 <table>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=python" /><br>Python</td>
