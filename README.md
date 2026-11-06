@@ -1,6 +1,6 @@
-## ⭐ About Me
-Hi, I'm Hannah!
-I'm a fourth year Computer Science and Game Development student at Northeastern University, passionate about the intersection of technology and human experience. I love building things that matter, whether that's immersive games or thoughtful software. I'm currently working on strengthening my full stack skills and exploring how intentional design and engineering can create experiences that connect with people.
+## ⭐ about me
+hi, i'm hannah!
+i'm a fourth year Computer Science and Game Development student at Northeastern University, passionate about the intersection of technology and human experience. i love building things that matter, whether that's immersive games or thoughtful software. i'm currently working on strengthening my full stack skills and exploring how intentional design and engineering can create experiences that connect with people!
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hannahstorer/snake-game/output/snake_darkmode.svg">
